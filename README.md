@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# agent_tool_decorator
-=======
 # AI-Powered Code Tools
 
 A collection of utilities for equipping and enhancing AI agents with standardized interfaces and capabilities.
@@ -68,4 +65,3 @@ Built with Python's inspect and typing modules to:
 - Create self-documenting function libraries for LLMs
 - Build consistent API surfaces for agent interaction
 - Enable runtime discovery of tool capabilitie
->>>>>>> 0e99e6c (Initial public release: AI agent tool decorator)
