@@ -61,3 +61,6 @@ print(calculator.to_string())
 #     operator (str): The operation to perform. Valid options are "sum", "difference", "product", and "quotient"
 # Returns:
 #     int: The result of the calculation, Arguments: a: int, b: int, operator: str, Outputs: int
+
+# https://huggingface.co/learn/agents-course/unit1/tools#auto-formatting-tool-sections
+# The description is injected in the system prompt.
